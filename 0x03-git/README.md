@@ -1,1 +1,1 @@
-REPO GIT project
+GIT PROJECT
